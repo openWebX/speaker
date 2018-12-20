@@ -1,5 +1,5 @@
 {
-    "name": "duncan3dc/speaker",
+    "name": "openWebX/speaker",
     "type": "library",
     "description": "Convert text to speech using web services",
     "keywords": ["text-to-speech", "tts", "speech"],
