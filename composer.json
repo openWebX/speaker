@@ -13,7 +13,7 @@
     }],
     "require": {
         "guzzlehttp/guzzle": "^6.0",
-        "symfony/process": "^2.8",
+        "symfony/process": "*",
         "php": "^7.1"
     },
     "require-dev": {
